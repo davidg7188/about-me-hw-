@@ -14,12 +14,20 @@
 
 ## _Schedule:_
 
-1. **Global History**
-2. **Software Engineering (SEP)**
-3. **Chemistry**
-4. **Lunch**
-5. **Literature of the Modern World (ELA)**
-6. **Weight Training**
-7. **Algebra**
-8. **Spanish**
+  1. **Global History**
+  2. **Software Engineering (SEP)**
+  3. **Chemistry**
+  4. **Lunch**
+  5. **Literature of the Modern World (ELA)**
+  6. **Weight Training**
+  7. **Algebra**
+  8. **Spanish**
 
+---
+
+#### _Things I Like To Do:_
+  * **Drawing**
+  * **Playing games**
+  * **Reading**
+  * **Talking with friends**
+  * **Watching movies**
