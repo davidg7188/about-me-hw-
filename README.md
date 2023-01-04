@@ -8,7 +8,7 @@
 ### High School of Telecommunications, Arts, and Technology
 ### [mahrusj2828@hstat.org](https://mail.google.com/mail/u/1/#inbox)
 
-#### I was born in Brooklyn, New York and have lived in Bay Ridge for 15 years. I want to study abroad in Miami, Florida or Japan and study marine biology.
+#### I was born in albuquerque, new mexico and have lived in los pollos hermanos for 15 years. I want to study abroad in Miami, Florida or Japan and study marine biology.
 
 ---
 
